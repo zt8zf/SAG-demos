@@ -1,4 +1,5 @@
 
+# Taken from http://lahman.r-forge.r-project.org/doc/Batting.html
 
 #install.packages("Lahman", repos="http://R-Forge.R-project.org")
 library(Lahman)
